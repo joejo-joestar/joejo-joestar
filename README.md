@@ -1,4 +1,7 @@
 # 👋 Hi, I’m joe
+
+"weli, welo, weli"
+             - alan walker
 - 👀 I’m interested in **surviving** 👏 **every** 🐢 **single** 🤡 **day** 🙃 **of** 🤌 **the** 👍  **week**
 - 🌱 I’m currently learning cse in bpdc
 <!---
