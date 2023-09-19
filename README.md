@@ -1,7 +1,7 @@
 # 👋 Hi, I’m joe
 
-"weli, welo, weli"
-             - alan walked
+["weli, welo, weli"
+             - alan walked](https://youtu.be/QxYpiBlHr1w?si=fUDqtkbV_KnKsPO5)
 - 👀 I’m interested in **surviving every single day of the week**
 - 🌱 I’m currently learning cse in bpdc
 
