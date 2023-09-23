@@ -2,7 +2,7 @@
 
 ["weli, welo, weli"
              - alan walked](https://youtu.be/QxYpiBlHr1w?si=fUDqtkbV_KnKsPO5)
-- 👀 I’m interested in **surviving every single day of the week**
+- 👀 I’m interested in **42**
 - 🌱 I’m currently learning cse in bpdc
 
 <!---
