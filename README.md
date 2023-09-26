@@ -18,4 +18,4 @@ joejo-joestar/joejo-joestar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://media.tenor.com/NZqvzcrzXhUAAAAC/smurf-cat.gif" title="" alt="Smurf Cat GIF - Smurf cat - Discover & Share GIFs" data-align="center">
+<img src="https://media.tenor.com/NZqvzcrzXhUAAAAC/smurf-cat.gif" title="" alt="Smurf Cat GIF - Smurf cat" data-align="center">
