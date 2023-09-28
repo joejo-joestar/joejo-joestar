@@ -1,6 +1,6 @@
 # 👋 Hi, I’m joe
 
-<img src="https://static.wikia.nocookie.net/aesthetics/images/c/c4/Synth-sunset-.gif/revision/latest?cb=20201201041854" title="" alt="Synthwave | Aesthetics Wiki | Fandom" data-align="center">
+<img src="https://github.com/joejo-joestar/joejo-joestar/blob/main/Media/serious%20and%20professional.jpg?raw=true" title="Very Serious and Professional" alt="Seriousness" data-align="center">
 
 
 
