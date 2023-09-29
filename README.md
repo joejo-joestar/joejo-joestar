@@ -1,7 +1,5 @@
 # 👋 Hi, I’m joe
 
-!["Very Serious and Professional"](./Media/serious%20and%20professional.png)
-
 !["Very Serious and Professional"](./Media/serious%20and%20professional.png?raw=true "Very Serious and Professional")
 
 
