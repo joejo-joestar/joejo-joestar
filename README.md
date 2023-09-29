@@ -1,6 +1,6 @@
 # 👋 Hi, I’m joe
 
-<img src="https://github.com/joejo-joestar/joejo-joestar/blob/main/Media/serious%20and%20professional.png" title="Very Serious and Professional" alt="Seriousness" data-align="center">
+!["Very Serious and Professional"](./Media/serious%20and%20professional.png)
 
 
 
