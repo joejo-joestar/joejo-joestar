@@ -2,8 +2,6 @@
 
 <img src="https://github.com/joejo-joestar/joejo-joestar/blob/main/Media/serious%20and%20professional.png" title="Very Serious and Professional" alt="Seriousness" data-align="center">
 
-
-
 > "[weli](https://youtu.be/QxYpiBlHr1w?si=fUDqtkbV_KnKsPO5)
 > 
 > [welo](https://youtu.be/QxYpiBlHr1w?si=fUDqtkbV_KnKsPO5)
