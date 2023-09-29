@@ -14,7 +14,7 @@
 > 
 >                 - alan walked
 
-- 👀 I’m interested in **staying alive**
+- 👀 I’m interested in **acting serious**
 - 🌱 I’m currently learning cse in bpdc
 
 <!---
