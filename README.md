@@ -4,8 +4,12 @@
 - 🌱 I’m currently learning cse in bpdc
 - 🔭 I’m currently working on maintaining my one (and only) repo :)
 
-<p align = center>
-!["Very Serious and Professional"](./Media/serious%20and%20professional.png?raw=true "Very Serious and Professional")
+<br>
+
+<p align="center">
+  
+<img src="/Media/serious%20and%20professional.png" alt="Very Serious and Professional" title="Very Serious and Professional">
+
 </p>
 
 <!---
