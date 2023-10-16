@@ -8,7 +8,7 @@
 
 <p align="center">
   
-<img src="/Media/serious%20and%20professional.png" alt="Very Serious and Professional" title="Very Serious and Professional">
+<img src="./Media/serious%20and%20professional.png" alt="Very Serious and Professional" title="Very Serious and Professional">
 
 </p>
 
