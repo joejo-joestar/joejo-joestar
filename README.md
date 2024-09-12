@@ -61,7 +61,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
     </a>
-    <a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/>
     </a>
 </p>
@@ -74,7 +74,7 @@
 
 
 <p align="center">
-    <img src="./Media/serious%20and%20professional.png" alt="Very Serious and Professional" title="Very Serious and Professional" width="256" style="">
+    <img src="./Media/serious%20and%20professional.png" alt="Very Serious and Professional" title="Very Serious and Professional" width="256">
 </p>
 
 <!---
