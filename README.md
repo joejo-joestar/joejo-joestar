@@ -1,13 +1,22 @@
 # 👋 Hi, I’m joe
 <!--- (joe mama) --->
 
-- 👀 I’m interested in **looking very professional and serious**
 - 🌱 I’m currently learning cse in bpdc
 - 🔭 I’m currently working on maintaining my very few repos
   - [uni-codes](https://github.com/joejo-joestar/uni-codes)
   - [DSA-Stuff](https://github.com/joejo-joestar/DSA-Stuff)
 
-<br>
+
+---
+
+### Projects and Repos:
+- [uni-codes](https://github.com/joejo-joestar/uni-codes) - Archive of programs for all lab practicals
+- [DSA-Stuff](https://github.com/joejo-joestar/DSA-Stuff) - Java codes for various data structures and DSA topics
+- [MTC Mediathon Submission](https://github.com/SreenikethanI/Mediathon2024-Logitik) - Basic HTML CSS [website](https://sreenikethani.github.io/Mediathon2024-Logitik/) for a club competition (Won [Best Website](https://www.linkedin.com/posts/microsoft-tech-club_microsofttechclub-photography-webdev-activity-7241003189209055232-g2q4))
+- pBee.ai: [React Frontend](https://github.com/joejo-joestar/pBee.ai-frontend) 
+- Font Detection App: [Frontend](https://github.com/joejo-joestar/Font-Detection-App) and [Model](https://github.com/SreenikethanI/Font-Detection-Model) - Project for Foundations of Data Science Course
+- [Fake News Detection Model](https://github.com/joejo-joestar/FakeNews-Detection-Model) - Project for Data Mining Course
+- NTRU-RLWE Hybrid FHE Scheme Demo - Project for Cryptography Course
 
 ---
 
