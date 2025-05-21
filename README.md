@@ -16,7 +16,7 @@
 - pBee.ai: [React Frontend](https://github.com/joejo-joestar/pBee.ai-frontend) 
 - Font Detection App: [Frontend](https://github.com/joejo-joestar/Font-Detection-App) and [Model](https://github.com/SreenikethanI/Font-Detection-Model) - Project for Foundations of Data Science Course
 - [Fake News Detection Model](https://github.com/joejo-joestar/FakeNews-Detection-Model) - Project for Data Mining Course
-- NTRU-RLWE Hybrid FHE Scheme Demo - Project for Cryptography Course
+- [NTRU-RLWE Hybrid FHE Scheme Demo](https://github.com/joejo-joestar/NTRU-RLWE-Hybrid-Scheme) - Project for Cryptography Course
 
 ---
 
