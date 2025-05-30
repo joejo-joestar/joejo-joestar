@@ -2,10 +2,6 @@
 <!--- (joe mama) --->
 
 - 🌱 I’m currently learning cse in bpdc
-- 🔭 I’m currently working on maintaining my very few repos
-  - [uni-codes](https://github.com/joejo-joestar/uni-codes)
-  - [DSA-Stuff](https://github.com/joejo-joestar/DSA-Stuff)
-
 
 ---
 
