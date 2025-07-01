@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning cse in bpdc
 
 ---
-<br>
 
 <h2>
     <img
@@ -29,11 +28,9 @@
 - **[Font Detection App](https://fontdetector.streamlit.app/):** [***Frontend Repo***](https://github.com/joejo-joestar/Font-Detection-App) **and** [***Model Repo***](https://github.com/SreenikethanI/Font-Detection-Model) - Project for Foundations of Data Science Course
 - [**Fake News Detection Model**](https://github.com/joejo-joestar/FakeNews-Detection-Model) - Project for Data Mining Course
 - [**NTRU-RLWE Hybrid FHE Scheme Demo**](https://github.com/joejo-joestar/NTRU-RLWE-Hybrid-Scheme) - Project for Cryptography Course
-- **[joestar](https://joestar.vercel.app/): [*Repo*](https://github.com/joejo-joestar/joestar)** - My personal portfolio website built in react
+- **[joestar](https://joestar.vercel.app/): [*Repo*](https://github.com/joejo-joestar/joestar)** - My personal portfolio website, built in react
 
 ---
-
-<br>
 
 <h2>
     <img
@@ -52,7 +49,6 @@
 
 ---
 
-<br>
 <br>
 
 <p align="center">
