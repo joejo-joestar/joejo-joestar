@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
     <img
         src="https://raw.githubusercontent.com/joejo-joestar/joestar/5c0d47baa1b1bc02dace9f882fd2d6ba92e0e0db/src/assets/pixhi.png"
         alt="o7"
@@ -12,7 +12,7 @@
 
 ---
 
-<h2>
+<h2 align="center">
     <img
         src="https://raw.githubusercontent.com/joejo-joestar/joestar/8ad250ff86a6254c58bb2072f0dc163b48b1d5b5/src/assets/pixcontact.png"
         alt="projects"
@@ -28,11 +28,13 @@
 - **[Font Detection App](https://fontdetector.streamlit.app/):** [***Frontend Repo***](https://github.com/joejo-joestar/Font-Detection-App) **and** [***Model Repo***](https://github.com/SreenikethanI/Font-Detection-Model) - Project for Foundations of Data Science Course
 - [**Fake News Detection Model**](https://github.com/joejo-joestar/FakeNews-Detection-Model) - Project for Data Mining Course
 - [**NTRU-RLWE Hybrid FHE Scheme Demo**](https://github.com/joejo-joestar/NTRU-RLWE-Hybrid-Scheme) - Project for Cryptography Course
-- **[joestar](https://joestar.vercel.app/): [*Repo*](https://github.com/joejo-joestar/joestar)** - My personal portfolio website, built in react
+- [**joestar**](https://joestar.vercel.app/): [*Repo*](https://github.com/joejo-joestar/joestar) - My personal portfolio website, built in react
+- [**Sheets-Language-Support**](https://github.com/joejo-joestar/Sheets-Language-Support) - A simple language support extension for google sheet (and other spreadsheets) formulas
+- [**Oil-and-Gas-Newsletter-and-Feed**](https://github.com/joejo-joestar/Oil-and-Gas-Newsletter-and-Feed) - A Google Apps Script project to automate a newsletter and aggregates news from RSS/Atom Feeds into a Google Sheet
 
 ---
 
-<h2>
+<h2 align="center">
     <img
         src="https://raw.githubusercontent.com/joejo-joestar/joestar/8ad250ff86a6254c58bb2072f0dc163b48b1d5b5/src/assets/pixnow.png"
         alt="languages"
@@ -44,8 +46,8 @@
 - **Languages**: [Java](https://www.adobe.com/in/products/illustrator.html), [Python](https://www.python.org), [MySQL](https://www.mysql.com/), [C/C++](https://www.cprogramming.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [LaTeX](https://www.latex-project.org/), [Markdown](https://daringfireball.net/projects/markdown/)
 - **Frameworks and Libraries**: [React](https://reactjs.org/), [Node.js](https://nodejs.org/en), [Material-UI](https://mui.com/material-ui/), [Formik](https://formik.org/), [Axios](https://axios-http.com/), [Streamlit](https://streamlit.io/), [TailwindCSS](https://tailwindcss.com/), [framer-motion](https://motion.dev/docs/framer)
 - **Libraries**: [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [pyTorch](https://pytorch.org/), [Pillow](https://pillow.readthedocs.io/en/stable/), [scikit-learn](https://scikit-learn.org/stable/)
-- **Developer Tools**: [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), [Figma](https://www.figma.com/), [Framer](https://www.framer.com/), [Postman](https://postman.com), [Amazon Web Services](https://aws.amazon.com)
-- **Tools**: [AutoCad](https://www.autodesk.com/ae/products/autocad/overview), MS Office Suite, [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html), [Blender](https://www.blender.org/)
+- **Developer Tools**: [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), [Figma](https://www.figma.com/), [Framer](https://www.framer.com/), [Postman](https://postman.com), [Amazon Web Services](https://aws.amazon.com), [clasp](https://github.com/google/clasp)
+- **Tools**: [AutoCad](https://www.autodesk.com/ae/products/autocad/overview), Microsoft Office Suite, [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html), [Blender](https://www.blender.org/), [Apps Script](https://developers.google.com/apps-script)
 
 ---
 
