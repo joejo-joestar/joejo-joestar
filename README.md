@@ -51,6 +51,12 @@
 
 ---
 
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=joejo-joestar&theme=catppuccin-macchiato&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
+---
+
 <br>
 
 <p align="center">
