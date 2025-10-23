@@ -8,7 +8,8 @@
 </h1>
 <!--- (joe mama) --->
 
-- 🌱 I’m currently learning cse in bpdc
+- 🌱 I’m learning cse in bpdc
+- 💻 I'm also interning in Al Shirawi Equipment Co.
 
 ---
 
