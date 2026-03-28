@@ -9,7 +9,6 @@
 <!--- (joe mama) --->
 
 - 🌱 I’m learning cse in bpdc
-- 💻 I'm also interning in Al Shirawi Equipment Co.
 
 ---
 
@@ -31,7 +30,8 @@
 - **[Fake News Detection Model](https://github.com/joejo-joestar/FakeNews-Detection-Model)** - Project for Data Mining Course
 - **[NTRU-RLWE Hybrid FHE Scheme Demo](https://github.com/joejo-joestar/NTRU-RLWE-Hybrid-Scheme)** - Project for Cryptography Course
 - **[Sheets-Syntax](https://github.com/joejo-joestar/Sheets-Syntax)** - A simple language support extension for google sheet (and other spreadsheets) formulas
-- **[OilGas-Wire](https://github.com/joejo-joestar/OilGas-Wire)** - A Google Apps Script project to automate a newsletter and aggregates news from RSS/Atom Feeds into a Google Sheet (also has a simple analytics backend on Cloud Run!)
+- **[OilGas-Wire](https://github.com/joejo-joestar/OilGas-Wire)** - A Google Apps Script project to automate a newsletter mail service and aggregates news from RSS/Atom Feeds into a Google Sheet
+- **[MDIF](https://github.com/joejo-joestar/MDIF)** - A Multi-Domain Inconsistancy Framework for Image Forensics Detection
 
 ---
 
